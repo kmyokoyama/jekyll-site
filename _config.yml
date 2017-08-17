@@ -3,8 +3,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "/about" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://kmyokoyama.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
 blog_theme: light # Or use dark
 
@@ -12,7 +12,7 @@ blog_theme: light # Or use dark
 name: Kazuki Yokoyama
 tagline: Data Scientist
 about-description: # Add Discription
-pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+pic: profile.png  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
 email: kmyokoyama@inf.ufrgs.br # Add your Email address
