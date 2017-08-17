@@ -1,28 +1,30 @@
-# The Monday Jekyll theme
-=========================
+# Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
+  
+## `Sorry guys but there will be no update until I buy a new laptop.`
+    
+######(If you like this theme or using it, please give a :star: for motivation.)
 
-Dark Theme:
-![](assets/img/documentation/dark.png)
+**[Moon](https://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
 
-Light Theme:
-![](assets/img/documentation/light.png)
+## Features
+* Minimal, you can focus on your content
+* Responsive
+* Disqus integration
+* Syntax highlighting
+* Optional post image
+* Social icons
+* Page for sharing projects
+* Optional background image
+* Simple navigation menu
+* MathJax support
 
-# Demo
-View this jekyll theme in action [here](http://artemsheludko.pw/monday/)
+## Preview
 
-Integrations
-  - [Google Fonts](https://fonts.google.com/)
-  - [Google Analytics](https://analytics.google.com/analytics/web/)
-  - [Disqus](https://disqus.com/)
-  - [Font Awesome](http://fontawesome.io/)
-  - Social media links
+![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
+![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
 
-# How to Use
+See a [live version of Moon](https://taylantatli.github.io/Moon) hosted on GitHub.
 
-  For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details,
-  or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/),
-  and [creating pages](https://jekyllrb.com/docs/pages/).
+## Getting Started
 
-## License
-
-GPL-v3.0
+To learn how to install and use this theme check out the [Setup Guide](https://taylantatli.github.io/Moon/moon-theme/) for more information.
