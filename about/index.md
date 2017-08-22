@@ -27,6 +27,8 @@ software engineering and frameworks.
 Last but not least, I have two incredible dogs! The wieners are called
 Caramelo and Chocolate :)
 
+Please, feel free to pop in and say 'hello' any time.
+
 Thanks for reading!
 
 <!---
