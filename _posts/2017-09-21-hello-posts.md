@@ -21,7 +21,6 @@ From now on, I intend to follow this pattern. First, I write the story on Medium
 publish it and then I link it here. This way I avoid duplicating text here and
 there and make Medium my main blog system. I do hope it works :)
 
-Ok, the link to my first story is here - [Why I've decided to start
-writing](https://medium.com/@kazukiyokoyama/why-ive-decided-to-start-writing-af861576642a).
+Ok, the link to my first story is here - [Why I've decided to start writing](https://medium.com/@kazukiyokoyama/why-ive-decided-to-start-writing-af861576642a).
 
 Thanks for reading!
